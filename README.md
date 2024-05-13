@@ -1,6 +1,7 @@
 # ShaguBoat
 
-A small addon for World of Warcraft: Vanilla (1.12.1) that helps to track your fishing boat timeout on Turtle WoW.
+A small addon for World of Warcraft: Vanilla (1.12.1) that helps to track your fishing boat timeout on [Turtle WoW](https://turtle-wow.org/).
+This addon is complete and won't receive any further updates. If you'd like to see any other feature, feel free to fork it. :)
 
 ![screenshot](./screenshot.jpg)
 
