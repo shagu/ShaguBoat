@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cffffcc00Shagu|cffffffffBoat
+## Author: Shagu
+## Notes: A despawn timer for Turtle-WoW Fishing Boats
+## Version: 1.0
+## SavedVariablesPerCharacter: ShaguBoat_data
+
+boat.lua
